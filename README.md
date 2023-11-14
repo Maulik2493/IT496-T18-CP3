@@ -32,7 +32,7 @@ The Cricket World Cup (CWC) stands as one of the most anticipated events in the 
 - For data pre-processing, we used pandas and numpy libraries.
 - For Exploratory Data Analysis, we used matplotlib and seaborn libraries.
 - For hyperparameter tuning, we used GridSearch.
-- For regression analysis, we used LinearRegression, RandomForestRegressor.
+- For regression analysis we used Random forest regressor and Deep neural network using keras.
 
 ### Problems Identified and Results :
 
