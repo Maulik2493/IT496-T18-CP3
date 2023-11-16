@@ -41,7 +41,7 @@ def get_player_country(Player):
 #default route
 @app.get('/')
 def index():
-    return{"message":"Hello IDM Students"}
+    return{"message":"Hello Cricket Fans"}
 
 #default route
 @app.get('/api-demo')
