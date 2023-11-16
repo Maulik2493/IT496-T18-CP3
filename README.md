@@ -174,7 +174,7 @@ Kagiso Rabada : 5.
 - Maulik Thakkar : Task 1 and Task 2
 - Sameer Sonara : Task 3
 - Maharshi Pipaliya : Task 3 and Readme file
-- Harshil Patel : API for task 3
+- Harshil Patel : API for task 1
 - Kunj Kapadiya : Task 2 and Proof reading
 
 ### References :
